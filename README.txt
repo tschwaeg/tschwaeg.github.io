@@ -1,0 +1,1 @@
+This is Tyler Schwaegler's portfolio which contains different coding projects. For more detailed information, please visit https://tschwaeg.github.io
